@@ -22,3 +22,10 @@ output "database_subnet_ids" {
 # output "ips" {
 #   value = local.ips
 # }
+
+
+
+output "some_update" {
+  value = "updated again"
+  
+}
